@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BasicWidget</string>
+
+    <string name="word_dog">개</string>
+    <string name="word_pig">돼지</string>
+    <string name="word_horse">말</string>
+
 </resources>
